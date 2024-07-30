@@ -14,6 +14,7 @@ const farm = {
   familyName: "Smith",
 
   crop: "beans",
+  // functions sitting inside objects are called "methods"
   replant: function (crop) {
     this.crop = crop;
   },
