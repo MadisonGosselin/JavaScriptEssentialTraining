@@ -9,9 +9,21 @@
 
 const backpack = {
   name: "Everyday Backpack",
+  changeName(name) {
+    this.name = name;
+  },
   volume: 30,
+  changeVolume(volume) {
+    this.volume = volume;
+  },
   color: "grey",
+  changeColor: function (color) {
+    this.color = color;
+  },
   pocketNum: 15,
+  changePocketNum: function (amt) {
+    this.pocketNum = amt;
+  },
   strapLength: {
     left: 26,
     right: 26,
@@ -24,3 +36,5 @@ const backpack = {
     this.strapLength.right = lengthRight;
   },
 };
+
+console.log("Backpack:", backpack);
