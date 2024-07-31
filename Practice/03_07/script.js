@@ -46,3 +46,12 @@ const car = {
 };
 
 console.log("Car:", car);
+
+const keyboard = {
+  numpad: false,
+  color: "red",
+  lights: "none",
+  price: 50,
+};
+
+console.log("Keyboard:", keyboard);
