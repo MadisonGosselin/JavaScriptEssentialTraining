@@ -1,9 +1,9 @@
-// JavaScript code​​​​​​‌​‌‌‌​​​​​​​‌​‌‌​​​‌​​​​‌ below
-// Write your answer here, then test your code.
-// Your job is to implement the findLargest() method.
+/*
 
-// Change these boolean values to control whether you see
-// the expected answer and/or hints.
+- Add a template literal to the cameraStory constant matching the template
+
+*/
+
 const showExpectedResult = false;
 const showHints = false;
 

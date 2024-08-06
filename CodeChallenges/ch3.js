@@ -1,9 +1,10 @@
-// JavaScript code​​​​​​‌​‌‌‌​​​​​​​‌​​​‌‌​‌​​‌‌‌ below
-// Write your answer here, and then test your code.
-// Your job is to implement the findLargest() method.
+/*
 
-// Change these boolean values to control whether you see
-// the expected answer and/or hints.
+- Make an object construtor for Book objects
+- The constructor must have properties for "title", "author", "ISBN" and "publicationYear"
+
+*/
+
 const showExpectedResult = false;
 const showHints = false;
 

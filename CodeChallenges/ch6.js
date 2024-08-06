@@ -1,8 +1,10 @@
-// JavaScript code​​​​​​‌​‌‌‌​​​​​‌‌‌​‌‌‌‌‌‌​​​​​ below
-// Write your answer here, then test your code.
+/*
 
-// Change these boolean values to control whether you see
-// the expected answer and/or hints
+- Calculate GST, PST and sum
+- Place in properties of totals
+
+*/
+
 const showExpectedResult = false;
 const showHints = false;
 
