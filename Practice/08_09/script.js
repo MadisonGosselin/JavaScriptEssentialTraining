@@ -33,6 +33,7 @@ const frogpack = {
   },
 };
 
+// create article and call helper to make figure
 const creatorFunction = (url, caption) => {
   const newArticle = document.createElement("article");
   newArticle.innerHTML = content;
